@@ -13,6 +13,9 @@ El juego de CIEN es una emocionante experiencia implementada en Python utilizand
 ### Requisitos
 - **Python 3.x:** Asegúrate de tener Python instalado. Puedes descargarlo desde [python.org](https://www.python.org/).
 - **Pygame:** Pygame es una biblioteca de Python diseñada para la creación de videojuegos. Puedes instalar Pygame utilizando el siguiente comando en tu terminal:
+pip install pygame
+- - **requirements.txt:** El archivo `requirements.txt` contiene todas las dependencias necesarias para ejecutar el proyecto. Asegúrate de instalarlas ejecutando el siguiente comando en la raíz del repositorio:
+pip install -r requirements.txt
 
 ### Instrucciones de Instalación y Ejecución
 1. **Descarga del Repositorio:** Clona o descarga este repositorio en tu máquina local.
