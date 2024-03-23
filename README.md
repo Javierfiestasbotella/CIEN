@@ -5,7 +5,7 @@ El juego de CIEN es una emocionante experiencia implementada en Python utilizand
 
 ## Imágenes
 
-![Imagen 1](a1.png)
+![Imagen 1](CIEN/a1.png)
 ![Imagen 2](a2.png)
 ![Imagen 3](a3.png)
 ![Imagen 4](a4.png)
