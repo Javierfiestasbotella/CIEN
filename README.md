@@ -34,3 +34,26 @@ La ventana del juego muestra la disposición del tablero con dos áreas para los
 Disfruta de la emoción del juego de CIEN mientras compites contra un amigo o contra la inteligencia artificial. ¡Buena suerte y que gane el mejor!
 
 
+# Juego de CIEN
+
+El juego de CIEN es una emocionante experiencia implementada en Python utilizando la biblioteca Pygame. Este juego recrea la diversión de lanzar dados y acumular puntos mientras compites contra un oponente para alcanzar la meta de 100 puntos primero.
+
+## Imágenes
+
+![Imagen 1](a1.png)
+![Imagen 2](a2.png)
+![Imagen 3](a3.png)
+![Imagen 4](a4.png)
+
+## Requisitos
+
+- **Python 3.x:** Asegúrate de tener Python instalado. Puedes descargarlo desde [python.org](https://www.python.org/downloads/).
+- **Pygame:** Pygame es una biblioteca de Python diseñada para la creación de videojuegos. Puedes instalar Pygame utilizando el siguiente comando en tu terminal:
+
+
+## Instrucciones de Instalación y Ejecución
+
+1. **Descarga del Repositorio:** Clona o descarga este repositorio en tu máquina local.
+2. **Instalación de Pygame:** Una vez descargado el repositorio, instala Pygame utilizando el comando mencionado anteriormente.
+3. **Ejecución del Juego:** Navega hasta el directorio donde has clonado o descargado el repositorio y ejecuta el script `main.py` utilizando Python:
+
